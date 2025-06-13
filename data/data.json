@@ -1,0 +1,372 @@
+{
+  "petShop": {
+    "name": "Paws & Claws Premium Pet Care",
+    "tagline": "Where Pets are Family",
+    "logo": "https://images.unsplash.com/photo-1618477371303-b2a57b5f32a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
+  },
+  "navbar": {
+  "name": "Paws & Claws",
+  "logo": "https://static.vecteezy.com/system/resources/previews/022/216/584/original/pet-shop-logo-design-for-business-pet-shop-icon-modern-design-illustration-flat-logo-vector.jpg",
+  "menu": [
+    { "name": "Home", "link": "#hero" },
+    { "name": "Services", "link": "#services" },
+    { "name": "Our Team", "link": "#team" },
+    { "name": "Packages", "link": "#packages" },
+    { "name": "Contact", "link": "#footer" }
+  ], 
+  "dropdownMenu": [
+    { "name": "Booking", "link": "#booking" },
+    { "name": "Success Stories", "link": "#stories" },
+    { "name": "Latest Blog", "link": "#blogGrid" },
+    { "name": "BlogDetail", "link": "#blogDetail" }
+    
+  ],
+  "ctaButton": { "text": "Book Appointment", "link": "#booking" },
+  "contactInfo": "+1 (888) PET-LOVE"
+}
+,
+  "heroPage": {
+    "title": "Luxury Care for Your Beloved Companions",
+    "subtitle": "Holistic Wellness | Premium Grooming | 24/7 Emergency",
+    "backgroundImage": "https://designgrapher.com/wp-content/uploads/2013/08/pet-photography.jpg",
+    "features": [
+      "Veterinary Hospital On-site", 
+      "Organic Pet Spa",
+      "Behavior Training",
+      "Luxury Boarding Suites"
+    ],
+    "ctaButtons": [
+      {"text": "Virtual Tour", "style": "outline"},
+      {"text": "Emergency Care", "style": "primary"}
+    ]
+  },
+  "about": {
+    "title": "Caring for Pets Since 2008",
+    "subtitle": "Five-Star Pet Experience",
+    "description": "At Paws & Claws, we treat your pets like royalty. Our certified team provides compassionate care using the latest veterinary technology and holistic approaches in our state-of-the-art facility.",
+    "image": "https://images.pexels.com/photos/4587990/pexels-photo-4587990.jpeg",
+    "experience": "15",
+    "values": [
+      {
+        "title": "Fear-Free Environment",
+        "description": "Calming pheromones and stress-reduction protocols"
+      },
+      {
+        "title": "Holistic Health",
+        "description": "Integrative Eastern and Western medicine approaches"
+      },
+      {
+        "title": "Transparent Care",
+        "description": "Live video updates during procedures"
+      },
+      {
+        "title": "Continuous Education",
+        "description": "Staff certified in latest animal care techniques"
+      }
+    ],
+    "stats": [
+      {"value": "8,500+", "label": "Happy Pets"},
+      {"value": "99%", "label": "Client Retention"},
+      {"value": "300+", "label": "5-Star Reviews"}
+    ]
+  },
+  "booking": {
+    "title": "Reserve Your Pet's Spa Day",
+    "description": "Our pet concierge will confirm within 30 minutes",
+    "formFields": [
+      {"type": "text", "label": "Pet's Name", "placeholder": "Buddy"},
+      {"type": "select", "label": "Pet Type", "options": ["Dog", "Cat", "Exotic", "Small Animal"]},
+      {"type": "select", "label": "Service", "options": ["Grooming", "Vet Checkup", "Training", "Boarding", "Daycare"]},
+      {"type": "datetime-local", "label": "Preferred Date & Time"}
+    ],
+    "benefits": [
+      "Complimentary Nail Trim",
+      "Priority Booking for Members",
+      "Pickup/Dropoff Service"
+    ],
+    "featureImage": "https://petlondon.us/cdn/shop/files/nico24687_cute_fluffy_dog_typing_on_a_laptop_b2f80bc8-5e24-41c1-822d-72c9e9c3efb4_1024x1024.png?v=1680899094"
+  },
+  "packages": {
+    "title": "Premium Care Memberships",
+    "packages": [
+      {
+        "name": "Platinum Paw Plan",
+        "image": "https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_1280.jpg",
+        "description": "All-inclusive wellness package",
+        "features": ["Unlimited Grooming", "Annual Vaccinations", "24/7 Vet Hotline", "Priority Boarding"],
+        "price": "$1499/year"
+      },
+      {
+        "name": "New Puppy/Kitten Starter",
+        "image": "https://i.pinimg.com/736x/be/73/58/be7358559f2a7e9b549748f43bb8be82.jpg",
+        "description": "Essential care package",
+        "features": ["3 Training Sessions", "First Vaccines", "Microchipping", "Starter Toy Bundle"],
+        "price": "$399 (Save $200)"
+      }
+    ]
+  },
+  "team": {
+    "title": "Certified Pet Care Specialists",
+    "team": [
+      {
+        "name": "Dr. Sarah Jenkins, DVM",
+        "image": "https://img.freepik.com/premium-photo/vet-doctor-examining-dog-cat-animal-clinic_488220-17516.jpg?w=2000",
+        "specialty": "Feline & Exotic Specialist",
+        "credentials": ["UC Davis Veterinary", "Fear-Free Certified", "15+ Years Experience"],
+        "bio": "Pioneer in stress-free cat handling techniques."
+      },
+      {
+    "name": "Dr. Ananya Rao, DVM",
+    "image": "https://img.freepik.com/free-photo/veterinarian-taking-care-pet_23-2149198604.jpg?w=740&t=st=1659254503~exp=1659255103~hmac=09e86108d3d4f57817d49fca9d423048743a79a8c225448e3993fa97690849e7",
+    "specialty": "Canine Behavior & Rehabilitation",
+    "credentials": ["Cornell Veterinary College", "Board-Certified Canine Specialist", "10+ Years Experience"],
+    "bio": "Expert in behavioral therapy for dogs with anxiety and aggression."
+  },
+  {
+    "name": "Dr. Marcus Lee, DVM",
+    "image": "https://image.petmd.com/files/styles/863x625/public/2024-06/GettyImages-1453786537.jpg",
+    "specialty": "Small Animal Surgery",
+    "credentials": ["University of Pennsylvania School of Veterinary Medicine", "ACVS Certified Surgeon", "12+ Years Experience"],
+    "bio": "Specializes in advanced orthopedic procedures for cats and dogs."
+  },
+  {
+    "name": "Dr. Sofia Martinez, DVM",
+    "image": "https://www.esaotevet.com/fileadmin/_processed_/b/c/csm_esaote-voice-of-your-colleague_0ddfb0f412.webp",
+    "specialty": "Avian & Wildlife Medicine",
+    "credentials": ["Colorado State University Veterinary College", "Certified Wildlife Health Expert", "8+ Years Experience"],
+    "bio": "Dedicated to treating and rehabilitating injured birds and exotic wildlife."
+  },
+  {
+    "name": "Dr. Jason Patel, DVM",
+    "image": "https://img.freepik.com/free-photo/close-up-veterinary-doctor-taking-care-pet_23-2149267960.jpg?t=st=1711046792~exp=1711047392~hmac=55f3c1e3f8a384292613a85d522fa3be24c8fe70414cfddf9da49604b36405ab",
+    "specialty": "Equine Sports Medicine",
+    "credentials": ["Texas A&M Veterinary College", "Equine Performance Health Specialist", "14+ Years Experience"],
+    "bio": "Focuses on rehabilitation for injured racehorses and athletic equines."
+  },
+  {
+    "name": "Dr. Olivia Chen, DVM",
+    "image": "https://images.ctfassets.net/7ybtdzdgha5d/4m0acTqy5Xgpp2fdGZGDaT/8d687723c6bdef2679f7fa34f76ff3b9/Canva_-_The_medicine__pet_care_and_people_concept_-_dog_and_veterinarian_doctor_at_vet_clinic.jpg?w=1800&h=1200&fl=progressive&q=65&fm=jpg",
+    "specialty": "Exotic Mammal Care",
+    "credentials": ["University of Sydney Veterinary School", "Exotic Small Mammal Specialist", "9+ Years Experience"],
+    "bio": "Provides specialized medical care for rabbits, ferrets, and other exotic pets."
+  },
+      {
+        "name": "Michael Rodriguez",
+        "image": "https://img.freepik.com/premium-photo/doctor-with-dog-pet-health-checkup-white-background_46383-15780.jpg",
+        "specialty": "Master Groomer & Behaviorist",
+        "credentials": ["NDGAA Certified", "Canine CPR Instructor", "Competition Groomer"],
+        "bio": "Featured in International Pet Stylist Magazine."
+      }
+    ]
+  },
+  "successStories": {
+    "title": "Happy Tails",
+    "cases": [
+      {
+        "pet": "Rescue Dog Transformation",
+        "beforeImage": "https://i0.wp.com/losalamosreporter.com/wp-content/uploads/2021/06/img_4015.jpg?resize=723%2C968&ssl=1",
+        "afterImage": "https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg",
+        "duration": "6 Months Care",
+        "services": ["Behavior Training", "Medical Care", "Grooming"]
+      },
+      {
+        "pet": "Senior Cat Wellness",
+        "beforeImage": "https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg",
+        "afterImage": "https://images.pexels.com/photos/1741205/pexels-photo-1741205.jpeg",
+        "duration": "Ongoing Care",
+        "services": ["Pain Management", "Special Diet", "Therapeutic Grooming"]
+      }
+    ]
+  ,
+    "testimonials": [
+    {
+      "quote": "They saved my golden retriever's life with their 24/7 emergency care - worth every penny!",
+      "author": "Robert T., Business Owner"
+    },
+    {
+      "quote": "Dr. Ananya's expertise in canine behavior transformed our anxious rescue dog into a confident companion. Truly life-changing!",
+      "author": "Lisa M., Dog Trainer"
+    },
+    {
+      "quote": "Our senior cat was struggling with chronic pain, but Dr. Marcus worked wonders with his specialized pain management plan. He’s thriving again!",
+      "author": "John D., Retired Teacher"
+    },
+    {
+      "quote": "Dr. Sofia's compassionate care saved our injured parrot. Her knowledge of avian medicine is unmatched!",
+      "author": "Emma W., Wildlife Volunteer"
+    },
+    {
+      "quote": "Thanks to Dr. Jason’s rehabilitation program, our prized racehorse made a full recovery and is back to competing. We couldn’t be more grateful!",
+      "author": "Nathan R., Professional Equestrian"
+    }
+  ]
+  },
+  "services": {
+    "title": "Premium Pet Services",
+    "categories": [
+      {
+        "name": "Veterinary Care",
+        "image": "https://images.pexels.com/photos/4587990/pexels-photo-4587990.jpeg",
+        "procedures": [
+          { "name": "Wellness Exams", "duration": "45 Min" },
+          { "name": "Dental Cleaning", "duration": "1-2 Hours" },
+          { "name": "Surgery", "duration": "Custom" }
+        ]
+      },
+      {
+        "name": "Grooming Spa",
+        "image": "https://images.pexels.com/photos/1904105/pexels-photo-1904105.jpeg",
+        "procedures": [
+          { "name": "Full Groom", "duration": "2 Hours" },
+          { "name": "Medicated Bath", "duration": "1 Hour" },
+          { "name": "Pawdicure", "duration": "30 Min" }
+        ]
+      },
+      {
+        "name": "Training",
+        "image": "https://th.bing.com/th/id/OIP.4VrplEauLXvMLzhekfyzjQHaLG?w=1068&h=1600&rs=1&pid=ImgDetMain",
+        "procedures": [
+          { "name": "Puppy Training", "duration": "6 Weeks" },
+          { "name": "Behavior Modification", "duration": "Custom" },
+          { "name": "Service Dog Prep", "duration": "12 Weeks" }
+        ]
+      },
+      {
+        "name": "Boarding",
+        "image": "https://th.bing.com/th/id/R.e86a29535e3313913ade8d2a9cc7945a?rik=CIJCb%2fNjYbuCXA&riu=http%3a%2f%2fwww.thepetstationinc.com%2fwp-content%2fuploads%2f2019%2f09%2fHR-Boarding-5-1024x684.jpg&ehk=%2bl27KFT0Z8EUeS8NC7u6LAiXmsbvGydQGq85H55qQ%2bw%3d&risl=&pid=ImgRaw&r=0",
+        "procedures": [
+          { "name": "Luxury Suite", "duration": "24/7 Care" },
+          { "name": "Cat Condo", "duration": "Private Space" },
+          { "name": "Medical Boarding", "duration": "Vet Supervised" }
+        ]
+      }
+    ],
+    "certifications": [
+    {
+      "name": "AAHA Accredited",
+      "image": "https://www.biggervet.com/wp-content/uploads/sites/101/2023/06/AAHA_Logo.png"
+    },
+    
+    {
+      "name": "NDGAA Master Groomers",
+      "image": "https://th.bing.com/th/id/OIP.YVgAMVxQZ1LyprQNK2Q7ZgAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Pet CPR Certified",
+      "image": "https://th.bing.com/th/id/OIP.suSIu34iMRuPtEAGPsJIbwHaIR?rs=1&pid=ImgDetMain"
+    }
+  ]
+  },
+  "footer": {
+    "contact": {
+      "address": "550 Pet Paradise Blvd, Miami, FL 33101",
+      "phone": "+1 (888) PET-LOVE",
+      "email": "care@pawsandclaws.com",
+      "hours": "Mon-Sat: 7am-9pm | Sun: 9am-6pm"
+    },
+    "socialMedia": {
+      "instagram": "https://instagram.com/pawsandclaws",
+      "facebook": "https://facebook.com/pawsandclaws",
+      "tiktok": "https://tiktok.com/@pawsandclaws"
+    },
+    "accreditations": [
+      "Better Business Bureau A+",
+      "Top Vet 2024 Award",
+      "Fear-Free Certified Facility"
+    ],
+    "newsletter": {
+      "title": "The Pampered Pet Journal",
+      "description": "Get pet care tips and exclusive offers monthly"
+    },
+    "copyright": "© 2024 Paws & Claws Premium Pet Care. All rights reserved."
+  }
+  ,
+  "blogData": {
+    "title": "The Ultimate Guide to Pet Nutrition",
+    "featuredImage": "https://wallpapercave.com/wp/wp2447017.jpg",
+    "date": "June 12, 2025",
+    "readingTime": "8 min",
+    "categories": ["Pet Health", "Nutrition"],
+    "author": {
+      "name": "Dr. Sarah Jenkins",
+      "role": "Veterinary Nutritionist",
+      "avatar": "https://img.freepik.com/premium-photo/vet-doctor-examining-dog-cat-animal-clinic_488220-17516.jpg",
+      "bio": "Certified veterinary nutritionist with 10+ years of experience in pet dietary science."
+    },
+    "content": [
+      {
+        "heading": "Understanding Pet Dietary Needs",
+        "paragraph": "Proper nutrition is the cornerstone of your pet's health and longevity. Different life stages, breeds, and health conditions require specific nutritional approaches that many pet owners overlook...",
+        "image": "https://images.pexels.com/photos/260440/pexels-photo-260440.jpeg",
+        "caption": "Balanced meals are essential for optimal health"
+      },
+      {
+        "heading": "Common Nutritional Mistakes",
+        "paragraph": "Many well-intentioned pet owners make critical mistakes when feeding their companions. One of the most common errors is over-reliance on commercial treats, which can account for up to 25% of a pet's daily caloric intake..."
+      }
+    ],
+    "tags": ["petfood", "diet", "health", "wellness"],
+    "relatedArticles": [
+      {
+        "title": "Top 5 Superfoods for Dogs",
+        "excerpt": "Discover nutrient-packed foods that can boost your dog's immunity and vitality",
+        "category": "Nutrition",
+        "date": "May 28, 2025",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/033/069/893/small_2x/cute-puppy-sitting-looking-at-camera-surrounded-by-nature-generated-by-ai-free-photo.jpg"
+      },
+      {
+        "title": "Understanding Pet Food Labels",
+        "excerpt": "Learn how to decode ingredient lists and nutritional information panels",
+        "category": "Education",
+        "date": "April 15, 2025",
+        "image": "https://img.freepik.com/premium-psd/pet-food-cat-food_1096068-690.jpg"
+      }
+    ]
+  },
+  "blogGridData": [
+    {
+      "title": "5 Ways to Keep Your Dog Active",
+      "excerpt": "Engaging your dog in daily activities improves their health and reduces anxiety. Discover fun and effective ideas!",
+      "image": "https://images.pexels.com/photos/7210708/pexels-photo-7210708.jpeg",
+      "date": "June 10, 2025",
+      "category": "Pet Exercise",
+      "author": {
+        "name": "Emily Clark",
+        "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+      }
+    },
+    {
+      "title": "How to Choose the Right Cat Food",
+      "excerpt": "Not all cat food is created equal. Learn how to read labels and pick what's best for your feline friend.",
+      "image": "https://www.catslongue.com/wp-content/uploads/2024/05/how-to-choose-the-right-cat-food-for-optimal-health.png",
+      "date": "May 22, 2025",
+      "category": "Nutrition",
+      "author": {
+        "name": "Dr. Alan Roe",
+        "avatar": "https://randomuser.me/api/portraits/men/51.jpg"
+      }
+    },
+    {
+      "title": "Vaccination Schedule for Puppies",
+      "excerpt": "A proper vaccination timeline is critical for your puppy’s long-term health. Here's what you need to know.",
+      "image": "https://thevets.com/wp-content/uploads/2021/09/puppy-vaccination-1024x503.jpg",
+      "date": "May 14, 2025",
+      "category": "Pet Health",
+      "author": {
+        "name": "Dr. Nina Patel",
+        "avatar": "https://randomuser.me/api/portraits/women/32.jpg"
+      }
+    },
+    {
+      "title": "Creating a Bird-Friendly Home",
+      "excerpt": "Ensure your pet bird lives in a safe, enriched environment with our top tips and must-haves.",
+      "image": "https://th.bing.com/th/id/OIP.Ejdp8CTyh7nTnR65cAXJDgHaE7?rs=1&pid=ImgDetMain",
+      "date": "April 28, 2025",
+      "category": "Bird Care",
+      "author": {
+        "name": "Kevin Munroe",
+        "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+      }
+    }
+  ]
+}
